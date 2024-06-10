@@ -1,4 +1,4 @@
-def media(nota1, nota2)
+def media(nota1, nota2):
     ResultadoMedia = (nota1 + nota2)/2
     print('Nota 1:', nota1)
     print('Nota 2:', nota2)
